@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047961918688",
+    "project_id": "efk-tracking-87a29",
+    "storage_bucket": "efk-tracking-87a29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047961918688:android:44d337a633be483ff7c485",
+        "android_client_info": {
+          "package_name": "com.example.efkpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047961918688-0aket33cipfqs1kcm8974nnubon6vnkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.efkpro",
+            "certificate_hash": "79ca1524cbfc670b719ed785ddc87de905ec623d"
+          }
+        },
+        {
+          "client_id": "1047961918688-p9gpqe5j6potftitt0r5h5okq9bef9a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh_lpB08Bjc1G8-mH_GGLVgb9Jms7L82U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047961918688-p9gpqe5j6potftitt0r5h5okq9bef9a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
